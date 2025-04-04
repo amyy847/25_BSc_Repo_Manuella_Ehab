@@ -1,0 +1,4 @@
+https://www.synopsys.com/blogs/chip-design/autonomous-driving-levels.html (diagram of 6 levels of autonomous vehicles)
+
+https://medium.com/@Engin_Bozkurt/a-general-overview-and-comparison-of-autonomous-driving-visualization-and-test-frameworks-cb182147a907 
+(models w hagat to use for visualization bas mesh f app)

@@ -1,0 +1,12 @@
+
+will try to save cars location on db
+will try to draw route on map using points saved on db
+try to make camera work
+try to draw boxes on camera
+
+further research
+write more in my thesis
+
+all of this was successfully acieved, will start working on drawing boxes on camera from points saved on db
+work on methdology/results
+drawing routes on camera
