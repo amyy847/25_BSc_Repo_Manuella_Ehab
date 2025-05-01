@@ -1,0 +1,22 @@
+performed the speed accuracy test.
+
+decided on these further experiments :
+
+testing with no wifi
+testing map moving (blue road wont move as we need live routes/constant apis, but that would be too costly and finish the free quota)
+
+test notifications and ros nodes
+
+created rqtgraph of my nodes
+
+experimented with ROS messages
+
+check with hana about the changing route, will she push a new destination? and bakcend notifiy the front?
+
+
+ask about extra features:
+ending ride manually
+manual override notification
+car is moving
+car has stopped
+pin code for riders
